@@ -333,7 +333,7 @@ Using the preceding `tweet` example, the following HTML will be added to your re
 
 Using the preceding `tweet` example, the following simulates the displayed experience for visitors to your website. Naturally, the final display will be contingent on your stylesheets and surrounding markup.
 
-{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
+{{< tweet 666616452582129664 >}}
 
 ### `vimeo`
 
